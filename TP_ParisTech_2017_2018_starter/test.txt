@@ -1,0 +1,14 @@
+
+ --- building .jar --- 
+
+[0m[[0minfo[0m] [0mLoading project definition from /Users/baptisteaubert/Desktop/Big_Data_Telecom_Paris/Semestre1/HadoopSpark/TP Spark/TP_ParisTech_2017_2018_starter/project/project[0m
+[0m[[0minfo[0m] [0mLoading project definition from /Users/baptisteaubert/Desktop/Big_Data_Telecom_Paris/Semestre1/HadoopSpark/TP Spark/TP_ParisTech_2017_2018_starter/project[0m
+[0m[[0minfo[0m] [0mSet current project to TP_ParisTech_2017_2018 (in build file:/Users/baptisteaubert/Desktop/Big_Data_Telecom_Paris/Semestre1/HadoopSpark/TP%20Spark/TP_ParisTech_2017_2018_starter/)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/baptisteaubert/Desktop/Big_Data_Telecom_Paris/Semestre1/HadoopSpark/TP Spark/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes...[0m
+[0m[[31merror[0m] [0m/Users/baptisteaubert/Desktop/Big_Data_Telecom_Paris/Semestre1/HadoopSpark/TP Spark/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala:115: unclosed character literal[0m
+[0m[[31merror[0m] [0m    print('XXXXXXXXXXXXXXXxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')[0m
+[0m[[31merror[0m] [0m                                                                                  ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
+[0m[[31merror[0m] [0mTotal time: 5 s, completed 9 nov. 2017 14:17:10[0m
+Build failed
